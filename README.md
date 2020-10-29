@@ -2,7 +2,7 @@
 
 The program is a virtual ATM machine made in Ruby whit Rspec
 testing framework and a fake user and account
-
+ 
 The ATM should have funds and every customer should have personal accounts and should only allow withdraws from active accounts.
 
 The customer should be able to withdraw funds of 5, 10 & 20$ bills only if funds are available and the card is valid and if the pin-code is correct.
