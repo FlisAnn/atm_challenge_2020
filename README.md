@@ -25,7 +25,7 @@ The customer should be able to withdraw funds of 5, 10 & 20$ bills only if funds
 
 # Instructions
 
-
+ 
 ## To use with irb
 `$ irb`
 
